@@ -61,7 +61,7 @@ Adicionalmente se implementó un **parser descendente predictivo** que lee una c
 
 ## ▶️ Ejecución
 
-### Estructura del proyecto
+### Estructura del trabajo
 
 ```
 ASDRecursivo/
